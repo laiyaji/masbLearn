@@ -15,6 +15,7 @@ public class Test {
         System.out.println(i);
 
         // lambda 表达式
+        System.out.println("位运算符很好用，效率高");
 
 
     }
