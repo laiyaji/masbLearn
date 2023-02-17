@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d834636f-94df-4cfa-a799-5bb26b0d9cd4" name="Default Changelist" comment="" />
+    <list default="true" id="d834636f-94df-4cfa-a799-5bb26b0d9cd4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,11 +20,22 @@
     </option>
   </component>
   <component name="ProjectId" id="2LqununVRMjetiGkMGI5CRh7SU4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -46,7 +59,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676611103662</updated>
+      <workItem from="1676611112123" duration="1845000" />
     </task>
+    <task id="LOCAL-00001" summary="首次创立项目包及文件">
+      <created>1676611226069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676611226069</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lambda表达式，网络编程TCP，UDP；线程奇数偶数打印，生产消费模型">
+      <created>1676611620030</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676611620030</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="首次创立项目包及文件" />
+    <MESSAGE value="lambda表达式，网络编程TCP，UDP；线程奇数偶数打印，生产消费模型" />
+    <option name="LAST_COMMIT_MESSAGE" value="lambda表达式，网络编程TCP，UDP；线程奇数偶数打印，生产消费模型" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="464" y="241" key="#Notifications" timestamp="1676611766092">
+      <screen x="0" y="32" width="1728" height="1085" />
+    </state>
+    <state x="464" y="241" key="#Notifications/0.32.1728.1085@0.32.1728.1085" timestamp="1676611766092" />
+    <state x="433" y="179" key="CommitChangelistDialog2" timestamp="1676611619702">
+      <screen x="0" y="32" width="1728" height="1085" />
+    </state>
+    <state x="433" y="179" key="CommitChangelistDialog2/0.32.1728.1085@0.32.1728.1085" timestamp="1676611619702" />
+    <state x="464" y="315" key="Vcs.Push.Dialog.v2" timestamp="1676611644186">
+      <screen x="0" y="32" width="1728" height="1085" />
+    </state>
+    <state x="464" y="315" key="Vcs.Push.Dialog.v2/0.32.1728.1085@0.32.1728.1085" timestamp="1676611644186" />
+    <state x="529" y="274" width="670" height="675" key="run.anything.popup" timestamp="1676611465654">
+      <screen x="0" y="32" width="1728" height="1085" />
+    </state>
+    <state x="529" y="274" width="670" height="675" key="run.anything.popup/0.32.1728.1085@0.32.1728.1085" timestamp="1676611465654" />
+    <state x="529" y="278" key="search.everywhere.popup" timestamp="1676611500318">
+      <screen x="0" y="32" width="1728" height="1085" />
+    </state>
+    <state x="529" y="278" key="search.everywhere.popup/0.32.1728.1085@0.32.1728.1085" timestamp="1676611500318" />
   </component>
 </project>
