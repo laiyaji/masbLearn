@@ -15,7 +15,7 @@ public class Test {
         System.out.println(i);
 
         // lambda 表达式
-        System.out.println("成功提交到了GitHub上面");
+
 
     }
 }
